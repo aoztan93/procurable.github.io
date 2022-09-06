@@ -14,7 +14,9 @@ a{
 }
 input{
 	border-style: none;
-	border: none;
+}
+input:focus{
+	border-style: none;
 }
 
 
