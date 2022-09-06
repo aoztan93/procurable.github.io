@@ -14,7 +14,16 @@ a{
 }
 
 input {
-	border: none;
+	color:rgba(0, 0, 0, 1);
+	width:231px;
+	height:29px;
+	position:absolute;
+	left:208px;
+	top:691px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
 		
 }
 .e14_62 { 
@@ -140,6 +149,7 @@ input {
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
+	
 }
 .e19_37 { 
 	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
