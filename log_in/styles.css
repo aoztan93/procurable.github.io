@@ -12,13 +12,17 @@ a{
 	text-decoration: none;
 	color: inherit;
 }
-input{
-	border-style: none;
-}
-input:focus{
-	border-style: none;
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
 }
 
+.no-outline:focus {
+  outline: none;
+}
 
 .e14_62 { 
 	width:1521px;
